@@ -7,4 +7,4 @@ Working prototype, refer gifs for app features.
 URL for apk file
 SavitaKL_Womenathon\apk\test.apk
 
-<img src="/GIF/Scribble2D.gif" style="max-width:100%;"/>
+<img src="/GIFs/VID-20200223-WA0014.mp4" style="max-width:100%;"/>
